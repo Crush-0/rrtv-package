@@ -3,7 +3,7 @@
   "displayName": "react-refactor-tool-on-vscode",
   "description": "An intelligent react refactoring plugin",
   "version": "0.0.1",
-  "publisher": "rrtv-team",
+  "publisher": "react-refactor-tool-on-vscode",
   "repository": {
     "type": "git",
     "url": "https://github.com/react-refactor-tool-on-vscode"
