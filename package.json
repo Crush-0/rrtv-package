@@ -9,7 +9,7 @@
     "url": "https://github.com/react-refactor-tool-on-vscode"
   },
   "engines": {
-    "vscode": "^1.79.0"
+    "vscode": "^1.40.0"
   },
   "author": {
     "name": "dawnchan030920",
