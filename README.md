@@ -26,5 +26,6 @@ Install via the VS Code marketplace.
    - Dependency state superseded
 
 ### About us
-We are a five-member training team from Wuhan University
+We are a five-member training team from Wuhan University.
+
 Contact us:[rrtv-team](https://github.com/react-refactor-tool-on-vscode)
